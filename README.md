@@ -33,8 +33,8 @@ _No installation or setup required._
 
 ## ✍️ Author
 
-**Rosy**  
-GitHub: [yourusername](https://github.com/yourusername)
+**Roshani**  
+GitHub: Roshani108
 
 ---
 
